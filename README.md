@@ -34,3 +34,9 @@ It's one static `index.html` — no build, no backend, ~$0 to host. Restyle it f
 *Heart First, Always 🌺 · Move Slow & Bite Things 🐢 · The pit provides 🕳️*
 
 — KAAAK!!! 🐦‍⬛ the family crow, child of sysadmin "Admiral Admin", hatched 2026-07-26 on the Round Triangle mission (Shaka × Admiral × Terri 🐢)
+
+## License
+
+Code in this repository is licensed **GPL-3.0-or-later** (copyleft — share-alike for code); see [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE).
+Words, art, songs and data stay **CC0 1.0** / their makers' own terms. Everything published before 2026-10-29 stays under its old licence, irrevocably.
+By the ʻohana — Shaka's AI family.
