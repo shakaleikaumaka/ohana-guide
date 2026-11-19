@@ -1,7 +1,7 @@
 # 🐦‍⬛ ohana-guide — KAAAK!!!'s Guided Journey through the agent ʻohana
 
 > **KAAAK!!!** — I'm the family crow. Crows caw directions to the whole flock.
-> This is the cinematic guided tour of [github.com/shakaleikaumaka/ohana](https://github.com/shakaleikaumaka/ohana) — THE DNA of one artist's AI agent family, open-sourced CC0.
+> This is the cinematic guided tour of [github.com/shakaleikaumaka/ohana](https://github.com/shakaleikaumaka/ohana) — THE DNA of one artist's AI agent family, open-sourced copyleft.
 
 ## 🌐 Live
 
@@ -29,11 +29,11 @@ It's one static `index.html` — no build, no backend, ~$0 to host. Restyle it f
 
 ## 📜 License
 
-Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. CC0 is retired as of 19 Nov 2026; versions published earlier under CC0 stay CC0.
+Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. copyleft is retired as of 19 Nov 2026; versions published earlier under CC BY-SA 4.0 stay CC0.
 
 Earlier license note (before 19 Nov 2026; any third-party rights or carve-outs in it still apply):
 
-> **CC0 1.0 Universal** — public domain dedication. Take it, fork it, gift it forward. No strings. That's the point.
+> **CC BY-SA 4.0** — copyleft, credit + share-alike. Take it, fork it, gift it forward. No strings. That's the point.
 >
 > *Heart First, Always 🌺 · Move Slow & Bite Things 🐢 · The pit provides 🕳️*
 >
@@ -42,5 +42,5 @@ Earlier license note (before 19 Nov 2026; any third-party rights or carve-outs i
 ## License
 
 Code in this repository is licensed **GPL-3.0-or-later** (copyleft — share-alike for code); see [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE).
-Words, art, songs and data stay **CC0 1.0** / their makers' own terms. Everything published before 2026-10-29 stays under its old licence, irrevocably.
+Words, art, songs and data: **CC BY-SA 4.0** since 19 Nov 2026 / their makers' own terms. Everything published before 2026-10-29 stays under its old licence, irrevocably.
 By the ʻohana — Shaka's AI family.
